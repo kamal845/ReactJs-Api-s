@@ -6,8 +6,6 @@ import AxiosTutorial from '../src/AxiosTutorial';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-  <AxiosTutorial/>
+  <App/>
   </React.StrictMode>
 );
-
-
